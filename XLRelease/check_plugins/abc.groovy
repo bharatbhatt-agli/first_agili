@@ -1,6 +1,6 @@
 // Exported from:        http://DESKTOP-RFIQ2A0:5516/#/templates/Foldera193ffce62c443439b6057fe8132d37b-Release7e799da780884a12a5170baed6eff0e6/releasefile
 // XL Release version:   9.0.4
-// Date created:         Wed Oct 09 12:09:21 IST 2019
+// Date created:         Wed Oct 09 12:11:52 IST 2019
 
 xlr {
   template('abc') {
@@ -16,6 +16,9 @@ xlr {
             
           }
           manual('bll') {
+            
+          }
+          manual('check_!23') {
             
           }
         }

@@ -1,2 +1,2 @@
 # first_agili
-first_repo_in_agili_(aur linux)
+first_repo_in_agili_(r linux)

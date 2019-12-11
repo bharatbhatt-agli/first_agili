@@ -1,2 +1,2 @@
 # first_agili
-first_repo_in_agili_(check ilinux)
+first_repo_in_agili_(checklinux)

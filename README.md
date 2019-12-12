@@ -1,2 +1,2 @@
 # first_agili
-first_repo_in_agili_(chclinux)
+first_repo_in_agili_(mylinux)
